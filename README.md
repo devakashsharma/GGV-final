@@ -9,7 +9,6 @@ Nexus is a locally run chatbot that demonstrates the power of Large Language Mod
 * [   System Architecture   ](#system-architecture)
 * [   Limitations   ](#limitations)
 * [   Future Scope   ](#future-scope)
-* [   Getting Started   ](#getting-started)
 
 ## Features
 
