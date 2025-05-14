@@ -66,4 +66,10 @@ The following enhancements are planned for future versions of Nexus:
 
 ---
 
-*This README.md provides a comprehensive overview of your Nexus project, drawing heavily from the provided document. It should give users a good understanding of what Nexus is, its features, and how it works.*
+*~ This README.md provides a comprehensive overview of your Nexus project, drawing heavily from the provided document. It should give users a good understanding of what Nexus is, its features, and how it works.*
+
+
+**~ Akash Sharma ❣️**
+
+---
+
